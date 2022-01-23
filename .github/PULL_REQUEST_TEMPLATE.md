@@ -34,6 +34,6 @@ Check this [list](https://help.github.com/en/articles/closing-issues-using-keywo
 - [ ] Documentation
 - [ ] Ready to be merged <!-- In your opinion, is this ready to be merged as soon as it's reviewed? -->
 - [ ] Added myself to contributors table. <!-- this is optional, see the contributing guidelines for instructions -->
-[Bot Usage](https://allcontributors.org/docs/en/bot/installation#3-update-your-contributing-documentation)
+[Bot Usage](https://allcontributors.org/docs/en/bot/installation#4-update-your-contributing-documentation)
 
 <!-- feel free to add additional comments -->
